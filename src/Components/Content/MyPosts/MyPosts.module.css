@@ -1,0 +1,33 @@
+.posts {
+   padding: 0 25px 15px;
+}
+
+.posts__content {
+
+}
+
+.posts__addpost {
+   display: flex;
+   align-items: center;
+}
+
+.posts__addpost textarea {
+   width: 500px;
+   height: 60px;
+   border: 2px solid rgba(0, 0, 0, 0.2);
+   padding: 15px;
+   border-radius: 20px;
+   overflow: hidden;
+}
+
+.posts__addpost button {
+   margin-left: 50px;
+   background-color: #FB1B1B;
+   font-size: 18px;
+   padding: 5px 15px;
+   color: #fff;
+}
+
+.posts__list {
+
+}

@@ -1,0 +1,21 @@
+.friends {
+   margin-top: 50px;
+   width: 90%;
+   border-radius: 15px 15px 0px 0px;
+   overflow: hidden;
+}
+
+.frieds__title {
+   background-color: #FB1B1B;
+   text-align: center;
+   font-size: 22px;
+   color: #fff;
+   padding: 18px 0px;
+}
+
+.friends__block {
+   border: 1px solid rgba(0, 0, 0, 0.3);
+   padding: 10px;
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+}

@@ -1,0 +1,39 @@
+.profile__block {
+   display: flex;
+   align-items: center;
+}
+
+.profile__ava {
+   width: 200px;
+   height: 200px;
+   background-color: #fff;
+   border-radius: 50%;
+   border: 1px solid rgba(0, 0, 0, 0.2);
+   margin: 30px 55px 30px 30px;
+}
+
+.profile__img {
+   background-color: #FB1B1b;
+   height: 150px;
+   width: 100%;
+}
+
+.profile__info {
+
+}
+
+.profile__name {
+   font-size: 22px;
+   font-weight: 700;
+   margin-bottom: 20px;
+   text-transform: uppercase;
+   letter-spacing: 0.2em;
+}
+
+.profile__details {
+   list-style: none;
+   margin: 0;
+   padding: 0;
+   font-size: 18px;
+   line-height: 2em;
+}
