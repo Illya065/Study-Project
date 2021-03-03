@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Study-Project/static/css/main.232107f4.chunk.css",
+    "main.js": "/Study-Project/static/js/main.12ed3297.chunk.js",
+    "main.js.map": "/Study-Project/static/js/main.12ed3297.chunk.js.map",
+    "runtime-main.js": "/Study-Project/static/js/runtime-main.def982e2.js",
+    "runtime-main.js.map": "/Study-Project/static/js/runtime-main.def982e2.js.map",
+    "static/js/2.0105d517.chunk.js": "/Study-Project/static/js/2.0105d517.chunk.js",
+    "static/js/2.0105d517.chunk.js.map": "/Study-Project/static/js/2.0105d517.chunk.js.map",
+    "static/js/3.e5cf3c0d.chunk.js": "/Study-Project/static/js/3.e5cf3c0d.chunk.js",
+    "static/js/3.e5cf3c0d.chunk.js.map": "/Study-Project/static/js/3.e5cf3c0d.chunk.js.map",
+    "index.html": "/Study-Project/index.html",
+    "static/css/main.232107f4.chunk.css.map": "/Study-Project/static/css/main.232107f4.chunk.css.map",
+    "static/js/2.0105d517.chunk.js.LICENSE.txt": "/Study-Project/static/js/2.0105d517.chunk.js.LICENSE.txt",
+    "static/media/Loader.88ae395b.svg": "/Study-Project/static/media/Loader.88ae395b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.def982e2.js",
+    "static/js/2.0105d517.chunk.js",
+    "static/css/main.232107f4.chunk.css",
+    "static/js/main.12ed3297.chunk.js"
+  ]
+}
